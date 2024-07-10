@@ -1,0 +1,34 @@
+.box1{
+    border: 4px solid rgb(164, 130, 238);
+    background-color: rgb(164, 130, 238);
+    padding-left: 50px;
+    height: 350px;
+    width: 400px;
+    padding-right: 50px;
+    padding-top: 50px;
+}
+.box2{
+    border: 4px solid rgb(15, 22, 72);
+    background-color: rgb(15, 22, 72);
+    
+}
+.contain .check{
+    background-color: aqua;
+}
+lable{
+    color: white;
+    display: block;
+    padding-left: 20px;
+    padding-top: 20px;
+    font-size: large;
+}
+.title{
+    padding-top: 0px;
+    border: 1px solid rgb(8, 19, 103);
+    background-color: rgb(8, 19, 103);
+    width: 55px;
+    height: 15px;
+    text-align: center;
+    font-size: xx-small;
+    z-index: -1;
+}
